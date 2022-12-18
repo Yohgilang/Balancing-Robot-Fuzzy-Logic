@@ -13,4 +13,4 @@ Components:
 
 Schematic
 
-![123](https://user-images.githubusercontent.com/93894711/208310794-f1ece59a-8eee-4dd1-b64e-03984cfd8f88.jpg)
+![123](https://user-images.githubusercontent.com/93894711/208310968-b41f55e6-045e-4e85-b883-7fb942c69cd2.jpg)
