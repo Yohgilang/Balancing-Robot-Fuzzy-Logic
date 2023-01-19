@@ -1,16 +1,17 @@
 # Balancing Robot Using Fuzzy Logic Controller
-Self balancing robot using Fuzzy Logic Controller (FLC) and Kalman Filter based on ESP8266
+Self balancing robot menggunakan Fuzzy Logic Controller (FLC) dan Kalman Filter berbasis ESP8266 
 
 ![12](https://user-images.githubusercontent.com/93894711/208308761-a14dcceb-9bbe-43c7-ae88-9218675e3616.png)
 
-Components:
+Komponen:
  - Wemos D1 Mini ESP8266
  - Wemos Motor Shield
  - Stepdown DC to DC
  - MPU6050
  - DC motors
  - Switch
-
-Schematic
+ 
+ 
+Skematik:
 
 ![123](https://user-images.githubusercontent.com/93894711/208310968-b41f55e6-045e-4e85-b883-7fb942c69cd2.jpg)
